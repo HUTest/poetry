@@ -1,1 +1,3 @@
 http://css-tricks.com/video-screencasts/101-lets-suck-at-github-together/
+https://www.kernel.org/pub/software/scm/git/docs/git-log.html
+http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging

@@ -3,5 +3,10 @@ Should have worn my contacts
 This is supposedly now different
 What just happened
 
+<<<<<<< HEAD
 A few more lines
 Yup this is how we do it.
+=======
+This is the second branch
+Kinda cool
+>>>>>>> feature
