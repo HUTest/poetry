@@ -5,7 +5,7 @@ What just happened
 
 <<<<<<< HEAD
 A few more lines
-Yup this is how we do it.
+Yup this is just playing  how we do it.
 =======
 This is the second branch
 Kinda cool
